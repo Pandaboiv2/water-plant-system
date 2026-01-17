@@ -1,4 +1,10 @@
 # Zone01 ultimate money making watering system
+
+**FOR NEXT WEEK**
+1) Find some good ideas
+2) Think of a prototype
+
+
 Team roles:
 
 Leader: Evan (Assist: Yuqi)
@@ -13,6 +19,3 @@ Marketing: Emerson and Zachary
 
 Vlogger: Frank (+marketing)
 
-
-1) Find some good ideas
-2) Think of a prototype
