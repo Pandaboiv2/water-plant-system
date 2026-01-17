@@ -14,3 +14,5 @@ Marketing: Emerson and Zachary
 Vlogger: Frank (+marketing)
 
 
+1) Find some good ideas
+2) Think of a prototype
